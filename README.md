@@ -16,7 +16,7 @@ I also created some tables to develop a RFM model (Recency, Frequency and Moneta
 3.	RFM_Scoring
 
 
-# CREATING THE TABLES
+# CREATING THE TABLES (SQL SERVER)
 
 ![Creating_Tables_Retail_Dashboard](https://user-images.githubusercontent.com/61191669/221925854-a00fff24-fc7f-4ae9-b019-510b5357057a.png)
 
@@ -26,12 +26,12 @@ I also created some tables to develop a RFM model (Recency, Frequency and Moneta
 ![RFM_1_Retail_Dashboard](https://user-images.githubusercontent.com/61191669/221926399-bb2afdbe-7793-41c4-b53f-71da7b23cc2f.png)
 
 
-# CONNECTING THE TABLES TO POWERBI AND CREATING DATA MODEL
+# CONNECTING THE TABLES TO POWERBI AND CREATING DATA MODEL (POWERBI)
 
 ![PowerBI_Retail_Dashboard_1](https://user-images.githubusercontent.com/61191669/221927016-83ea425e-5149-4ae5-9f45-4a709e056ac3.png)
 
 
-# CREATING THE DASHBOARD
+# CREATING THE DASHBOARD (POWERBI)
 
 ![Retail_Dash_1](https://user-images.githubusercontent.com/61191669/221928122-22cb37db-3c48-4041-b7db-9b027be4f473.png)
 
